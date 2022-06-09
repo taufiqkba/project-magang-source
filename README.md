@@ -29,13 +29,13 @@ This was my project when I interned at PT. Telkom. This project is a web applica
 
 -   For user
 
-username: 321321
-password: password
+    -   User ID: 321321
+    -   Password: password
 
 -   For admin:
 
-username: 123123
-password: password
+    -   User ID: 123123
+    -   Password: password
 
 ## License
 
